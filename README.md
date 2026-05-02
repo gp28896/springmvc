@@ -1,4 +1,4 @@
-# 🛒 NAAM – Spring MVC E-Commerce Application
+
 
 ![Java](https://img.shields.io/badge/Java-8+-orange)
 ![Spring MVC](https://img.shields.io/badge/Spring-MVC-brightgreen)
